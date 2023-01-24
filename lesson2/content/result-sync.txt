@@ -1,0 +1,2 @@
+here is the result : hello this text from first file , hello this text from second filehere is the result : hello this text from first file , hello this text from second filehere is the result : hello this text from first file , hello this text from second file
+hello worldhere is the result : hello this text from first file , hello this text from second filehere is the result : hello this text from first file , hello this text from second file
